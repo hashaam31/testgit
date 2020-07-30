@@ -1,4 +1,9 @@
 <html>
 
- this is master commit conflict
+ this is future branch commit conflict
+ this is future branch commit conflict
+ this is future branch commit conflict
+ this is future branch commit conflict
+ this is future branch commit conflict
+ this is future branch commit conflict
 </html>
